@@ -50,3 +50,9 @@ ul li a:hover {
   position: top;
   text-align: center;
 } 
+
+body {
+  font-family: inherit;
+  font-size: 15px;
+
+}
